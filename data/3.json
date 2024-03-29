@@ -1,0 +1,2614 @@
+{
+  "pageProps": {
+    "pageTitle": "Opel Corsa segunda mano comprar en AutoScout24",
+    "pageid": "list",
+    "cultureInfo": {
+      "isoCulture": "es-ES",
+      "tld": "es",
+      "country": "es"
+    },
+    "eTldPlusOne": "autoscout24.es",
+    "pageQuery": {
+      "sort": "standard",
+      "desc": "0",
+      "atype": "C",
+      "ustate": "N,U",
+      "powertype": "kw",
+      "cy": "E",
+      "fregfrom": "2019",
+      "fregto": "2020",
+      "page": "3",
+      "search_id": "3sxmzo2y24",
+      "source": "listpage_pagination",
+      "mmmv": "54|1918||",
+      "ocs_tail": "false",
+      "pricetype": "public"
+    },
+    "numberOfResults": 612,
+    "numberOfPages": 20,
+    "numberOfResultsIncludingNulls": 612,
+    "listings": [
+      {
+        "id": "8474ec14-6101-435d-999d-39a45f7454bb",
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_200dba7f-c7cb-41a1-8c44-39ad1fb48336.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_5f503489-5586-4c32-bda6-884268b9b904.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_519c199d-8ce9-40c9-9f31-4f69ed78d52f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_d6f33174-199b-4f0f-a1f1-918b3b8e0e72.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_4723d1b7-0fa1-4eca-80c0-a3aafc43d0a2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_87f9407b-ddf5-461a-9159-452c69082c9a.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_c133177f-b010-4bb7-b97f-d3ad1d975d3b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_3b0101b4-dfc8-486c-beab-b8c269a376dc.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_7a9bd3ca-e45f-41c1-8a7b-d70144835dd8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_27f389f8-6965-4c9c-ba03-b90094bdcf2d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_b7a2d4a9-3370-470a-bebe-0d6fc635a124.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_e5258158-afa0-4bf9-95d1-0ec86c754b30.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_5e17022f-2357-4207-b9e6-cc86aacc1bfe.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_5a48ccaf-340d-46d9-a0b3-a5e9fc321a1d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/8474ec14-6101-435d-999d-39a45f7454bb_7253d0d1-011d-4686-b0c4-d5d66f55ced2.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "isOfferNew": true,
+        "price": {
+          "priceFormatted": "€ 11.682,-",
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-elegance-100-diesel-negro-8474ec14-6101-435d-999d-39a45f7454bb",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Elegance 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "18195",
+          "city": "CULLAR VEGA"
+        },
+        "seller": {
+          "id": "45530812",
+          "type": "Dealer",
+          "companyName": "CRESTANEVADA DEALER",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/crestanevada-dealer?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/crestanevada-dealer/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 858212896",
+              "callTo": "+34858212896"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "12-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.24260265327956054",
+          "isSmyleEligible": "true",
+          "mileage": "42817",
+          "priceLabel": "unknown",
+          "price": "11682",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24260265327956054,
+        "vehicleDetails": [
+          {
+            "data": "42.817 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "12/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "1f59bd95-8d77-4b25-8825-43b7d779e93a",
+        "legacyId": 461545118,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_0170aebd-a277-44c3-bf1b-62f5341dfdb5.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_07fda9ed-7b40-4cd2-909c-1e6be791a4dd.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_f8ae17bd-f19e-402b-bf8e-988f0bb3ed36.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_01a215d8-23ba-444d-9405-553e007b0964.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_7349b4b6-f7e7-4b42-91fc-0887bd2c251d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_25e8447d-13f1-460f-938e-93c3ef4d1e58.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_5e395e8b-6978-4ad6-9908-cc17bc9734fc.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_c5fd02cb-ee14-44fc-943b-4f403956a21d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_d708b8dc-0279-43d6-8a6f-c64e008d55b5.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_d295a683-7890-4b61-9e27-bce2619a898b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_0f6a1c15-d6a5-4baa-bf11-c27c53dfed1f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_ddc12298-c38c-4ee6-9852-ddabcb83dc57.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_f044b313-fb63-4d58-925b-fe33681ea4e0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_61a96466-8ced-442e-b1a1-dbb50c4d2c35.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/1f59bd95-8d77-4b25-8825-43b7d779e93a_6bcffd04-e204-40af-b73c-be5130edd86c.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "isOfferNew": true,
+        "price": {
+          "priceFormatted": "€ 11.682,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-elegance-100-diesel-negro-1f59bd95-8d77-4b25-8825-43b7d779e93a",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Elegance 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "23400",
+          "city": "ÚBEDA"
+        },
+        "seller": {
+          "id": "45531551",
+          "type": "Dealer",
+          "companyName": "CRESTANEVADA JAÉN",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/crestanevada-jaen?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/crestanevada-jaen/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 953972252",
+              "callTo": "+34953972252"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "12-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.24260265327956054",
+          "isSmyleEligible": "true",
+          "mileage": "42817",
+          "priceLabel": "toolow-price ",
+          "price": "11682",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24260265327956054,
+        "vehicleDetails": [
+          {
+            "data": "42.817 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "12/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "71259403-d251-4852-8a2f-4d11c7ed5efc",
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_0bb0c917-c912-4278-99fc-980279e7ac06.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_4bc5e482-6b48-42b1-a0fe-4438abaed68f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_3aea67ac-e180-42d4-b413-7adfa32548e8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_6c09a76d-e06b-4bcb-ad6f-368c112374ae.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_a03420ea-3ed1-454e-9904-7c24e1e37dd8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_87462185-5dbd-4767-8677-09394624c3cc.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_10718bd7-5802-4a02-85c5-bce021b73fa4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_6c8c86b6-e0cd-4b78-bc00-dd2ea82a2ec6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_48be8324-a37f-4a7f-9712-496db515b598.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_021a95ba-c66c-4e1c-9ed3-298a8027c2e0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_a08c24d9-7790-4aaa-8f5b-dcacafca43a4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_6b380820-6f87-49ba-904f-9342e55a05f1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_22199e2b-8f2a-4c9a-a94a-883d7f376ea3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_b9c460a1-abec-42ed-8943-d5d520321222.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/71259403-d251-4852-8a2f-4d11c7ed5efc_bc49a4eb-7504-4986-a9a5-abe156e7ad17.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "isOfferNew": true,
+        "price": {
+          "priceFormatted": "€ 11.682,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-elegance-100-diesel-negro-71259403-d251-4852-8a2f-4d11c7ed5efc",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Elegance 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "04230",
+          "city": "Huércal de Almería"
+        },
+        "seller": {
+          "id": "45532071",
+          "type": "Dealer",
+          "companyName": "CRESTANEVADA ALMERIA",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/crestanevada-almeria?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/crestanevada-almeria/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 950792524",
+              "callTo": "+34950792524"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "12-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.24260265327956054",
+          "isSmyleEligible": "true",
+          "mileage": "42817",
+          "priceLabel": "toolow-price ",
+          "price": "11682",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24260265327956054,
+        "vehicleDetails": [
+          {
+            "data": "42.817 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "12/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "398e0b15-67c8-469b-877e-e92865321886",
+        "legacyId": 453462853,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_0c0661ba-5281-491e-b6d1-f0095d56074a.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_26f1d89d-d6d9-4b56-8d30-0bdb6b215aad.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_44c1e6cc-47cd-4356-81f8-79a2c72452ec.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_37ffeb87-6939-473a-bcaa-f58cf870669f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_7c78977b-4867-481d-b720-18a6a65dfdae.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_2374246f-1773-4058-ba63-2925229b8c23.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_5d29307a-e196-4a8b-aa0d-5ec89f2ea677.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_6bf648f5-8906-4786-ad7b-5793a4b260f5.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_87315fe6-fdf5-454b-930e-6adfda116532.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_7ccb2ddc-647f-4a23-b267-acbd869a8f66.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_548c5d5c-35e9-4550-910c-e2fd16839732.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_a2841195-9de6-4d39-993f-cbd4f183ddeb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_20aef4c9-b9b2-4e17-a11f-9c1313e423ed.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_7d6534ee-05ab-4db9-8ef2-76e29ad9f564.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_26668d3a-716e-47f2-bb67-ac3ff15e1f1b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_0039bdf2-8cee-47e0-b2d5-5cc867359bec.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_99e5137a-aecc-428a-ad6a-2cad8da07ea9.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_ff9a9170-e22a-4798-8802-e70d449db4e3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_6a8aa7c8-d3d0-43c3-a221-a7929b8e4a78.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_443546bd-1b8d-43e3-a993-f588336cab40.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_6c806d36-2be3-4a46-84e8-bf2fe9997fd7.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_55b6a5ac-0016-4ef7-bc03-6babd5ade176.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_8816ea54-cf9b-4187-b568-d86fa4baf440.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_89bddb40-4545-436b-a7e3-0cc9e1bdc9be.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_d41da5c9-f93e-4b10-a7e3-90800f7274af.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_6bd56613-f6ff-4edf-b69f-f669bb94b92d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_6f196bc2-7c1c-4c84-8b18-cfc930576a11.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_8912c95c-6e84-4aa0-b283-d2c24d09cb9d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_1d342643-0790-4f49-b58b-cb35b42b0fcb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_ee48c022-8664-4f50-bfa3-d048bda18e1d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_7a3a3625-7188-44e5-8872-591be36db44f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_d8a10fec-9c79-4867-971d-a8d371823bbd.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_ad2706a6-ba6b-4c05-bd2d-b268a22142ef.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/398e0b15-67c8-469b-877e-e92865321886_808476af-0a04-40ce-a21d-c1f7e91dedda.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 11.490,-",
+          "priceEvaluation": 0,
+          "priceSuperscriptString": "1",
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "€ 12.490,-",
+          "isEligible": true
+        },
+        "url": "/anuncios/opel-corsa-1-2t-xhl-74kw-100cv-elegance-gasolina-blanco-398e0b15-67c8-469b-877e-e92865321886",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2T XHL 74kW (100CV) Elegance",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "28806",
+          "city": "ALCALA DE HENARES"
+        },
+        "seller": {
+          "id": "28526392",
+          "type": "Dealer",
+          "companyName": "AUTOS MADRID ALCALÁ DE HENARES",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/autos-madrid-alcala-de-henares?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/autos-madrid-alcala-de-henares/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 919379191",
+              "callTo": "+34919379191"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "05-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.2474620962816958",
+          "isSmyleEligible": "true",
+          "mileage": "18496",
+          "priceLabel": "toolow-price ",
+          "price": "11490",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.2474620962816958,
+        "vehicleDetails": [
+          {
+            "data": "18.496 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "05/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "74 kW (101 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "6e926af8-2f72-4741-b7cb-50d048721e40",
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_d71c7de6-77cf-4729-9504-a7677a4dee76.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_5dbb8de4-b698-40be-ae90-e9dbf0d14436.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_0b976ddb-585c-4faa-8a20-5f022c9d6ec0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_f5980a4d-ec94-42c8-a2c8-36cd22cdf2a6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_0491fdda-582c-4d55-bb8f-71b5a28488b1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_6243ae98-8877-46c1-a163-68dd15fb4e5c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_3d404af8-19e0-4d89-83d6-4cd0174a09d4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_e2d1dfa2-0b67-46d9-b03a-83e1b8788b87.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_2f17b403-ce61-4342-99fc-27e2e94564bb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_a3daa924-c4b3-48b5-91c9-74743935165f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_9f858974-5284-404d-83bc-8aeabf8e455b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_ec5be483-7d9f-4479-851e-bbb9017e1a0e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_8e2ad1b3-6857-4823-b7fd-c26b56375d51.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_49ed1d69-87cc-479f-bc9f-cc08417a0ae4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6e926af8-2f72-4741-b7cb-50d048721e40_4f45cdcf-5702-40ce-a2fc-e6bc76376690.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "isOfferNew": true,
+        "price": {
+          "priceFormatted": "€ 11.682,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-elegance-100-diesel-negro-6e926af8-2f72-4741-b7cb-50d048721e40",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Elegance 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "17001",
+          "city": "GIRONA"
+        },
+        "seller": {
+          "id": "45531041",
+          "type": "Dealer",
+          "companyName": "CRESTANEVADA GIRONA",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/crestanevada-girona-girona?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/crestanevada-girona-girona/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 872452521",
+              "callTo": "+34872452521"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "12-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.24260265327956054",
+          "isSmyleEligible": "true",
+          "mileage": "42817",
+          "priceLabel": "toolow-price ",
+          "price": "11682",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24260265327956054,
+        "vehicleDetails": [
+          {
+            "data": "42.817 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "12/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "083107e9-bfe6-4bff-9a3f-6936a2584343",
+        "legacyId": 459581977,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_6dcae790-aeea-4207-a4ca-a183410f835d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_392e32ee-a78c-4787-a52c-f441efc0eb4c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_fc2180e1-e7c5-43db-a4f0-ef107dc9515c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_4716d84d-0ca9-43f7-8259-ee4a6a81d633.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_6ccfd72f-bdfa-4cf9-86c4-d5245467e2b3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_981fb808-0781-43bd-a9f6-5ec80d704d10.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_7f5d3b74-0a87-4c72-805f-a8c3267d1b33.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_dd14d1cb-004c-4b6e-882b-450d13d0abb1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_86aa7c6d-7bdb-4e48-9d5f-718d26a8a826.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_8dd9512b-9ba1-4655-8e5d-2f432ab35276.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_ba638a79-3c40-4a8d-94ec-8472d683fee4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_15fc12d2-87bd-497c-aeef-10677bae08b9.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_b441b37a-31f4-4e51-beec-c655a96a0359.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_85f98198-3385-4a98-87f0-724837485ebc.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_4f6f5a70-f9f1-4d4e-90f4-69c1a6418f1d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_6f3f02a6-f22b-4fa2-a6f0-ab0cba355dbb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_cc4f86ba-6393-4874-9523-021e032c2c5f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_017e7df1-fa8a-47d8-b9b8-a2cb8593db70.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_1f82e1d5-ac32-4830-986b-8d74f66db8be.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_4beab724-03f7-4e0d-b428-2ecdc850f716.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_916cc08d-597d-41a0-ac5a-fff1d7193f62.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_871a0b04-5485-4fcb-bbdd-858a24b0ec42.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_9a5e66b6-04a4-4f0a-a8bb-670b8aee31ce.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_100dda59-79e7-4f6d-a7f8-f848ba74652c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_3203ad51-3d0a-4b77-8bf5-71927e3a9cb8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_1945798e-e518-4cd7-a8e8-ccb8c6c545e2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_3ef21a86-6b7a-4cc4-b2c4-b0b13e9a4257.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_9f334f2a-64a1-4a2f-844b-a1a25ff7f6a2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_54ac3f38-a86f-44cd-90a0-63690032bc0f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_5695471a-5161-42c5-8434-2ca91a1ade72.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_a1799d4d-1595-45b3-bfff-364dcd8783e6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_15dc7cc5-16a1-4cd5-9e9e-2f116ddda4bf.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_b1a7750b-35b4-45e0-803e-a4a1e83fb4cd.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/083107e9-bfe6-4bff-9a3f-6936a2584343_c07a7463-2964-4c08-9ff7-439a16c90997.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 11.390,-",
+          "priceEvaluation": 1,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-2t-xhl-s-s-edition-100-gasolina-naranja-083107e9-bfe6-4bff-9a3f-6936a2584343",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2T XHL S/S Edition 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "12001",
+          "city": "CASTELLON"
+        },
+        "seller": {
+          "id": "45071279",
+          "type": "Dealer",
+          "companyName": "CLICARS CASTELLON",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/clicars-castellon?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/clicars-castellon/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 864871412",
+              "callTo": "+34864871412"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.22418875102386315",
+          "isSmyleEligible": "true",
+          "mileage": "47909",
+          "priceLabel": "top-price",
+          "price": "11390",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.22418875102386315,
+        "vehicleDetails": [
+          {
+            "data": "47.909 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "74 kW (101 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "68757d64-08b4-4941-a2ab-ede73263eb3a",
+        "legacyId": 457681230,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_59872413-cab7-4d38-a834-c8a63f1bb28f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_83c43182-8434-4ddf-93a6-0fc5e7a9e6c3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_61b02dea-c4db-44cd-a6b2-553ba3e5f950.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_06b82d1a-d56a-4a23-8bc9-54ff723b8cc3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_917f2c5a-980d-458a-a88e-7364579b288b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_7bc3ed54-b38d-4995-bed0-5daae893ed80.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_ce2ee095-0386-4425-89af-132f92e15e84.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_c0871a01-cd55-4517-b89d-77ad0e106b59.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_a31b1857-8f02-4426-9e4a-fb7730e0f3df.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_6779014c-9e95-4b76-a335-9843977c3620.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_92c5b9ab-4973-417e-bced-04c5f7d8721c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_b42e3dbd-6316-46b3-92cd-52010cce1b29.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_2c6f725b-0088-4fdb-bfb2-acc15473f7fb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_0a72d0cd-d27d-4abf-9c28-5b9c80d55339.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_e5f44845-1051-468e-810f-7ac057c9b8c9.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_630eb60c-0dd7-4fef-bc5d-09d71e75af0c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_fd5c1551-68a8-4470-bd76-9bef5c0e457c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_f7b72981-da6f-42ff-bb67-ca6b8262f1d4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_1397421f-35db-4a6b-9c5e-01593b82cd93.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_0372cce7-bb06-4f23-806e-7c275018d470.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_9f2d77ce-b8f5-4bdd-a537-bb814c7bd5b1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_ab0fb35d-5fa5-432b-857b-57c1d3a3f29f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/68757d64-08b4-4941-a2ab-ede73263eb3a_a50ccbd1-5e9d-4054-9c35-2eb0427342a1.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 12.990,-",
+          "priceEvaluation": 2,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "€ 13.990,-",
+          "isEligible": true
+        },
+        "url": "/anuncios/opel-corsa-1-4-turbo-s-s-gsi-150-gasolina-68757d64-08b4-4941-a2ab-ede73263eb3a",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.4 Turbo S/S GSi 150",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "08097",
+          "city": "L'Hospitalet de Llobregat"
+        },
+        "seller": {
+          "id": "35836915",
+          "type": "Dealer",
+          "companyName": "FLEXICAR GRUPO BARCELONA.",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/flexicar-grupo-barcelona?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/flexicar-grupo-barcelona/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 936164521",
+              "callTo": "+34936164521"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Some"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2019",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.2689326217968169",
+          "isSmyleEligible": "false",
+          "mileage": "34042",
+          "priceLabel": "good-price",
+          "price": "12990",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.2689326217968169,
+        "vehicleDetails": [
+          {
+            "data": "34.042 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2019",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "110 kW (150 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "fa15f6ea-bf86-4761-ae18-9e7130856932",
+        "legacyId": 459142672,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_1b8fb230-124e-483a-afa6-bc1cab1ddcc1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_8e19da79-2d9f-4bd8-8cfb-db35d4db34de.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_a295035e-da5a-4393-8d7b-c22ab1b1f57c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_f50c64a8-c611-4b75-be38-f188246c9803.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_e82d0826-91cf-4eca-935c-dc0ff6603994.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_e5f08078-9355-4ded-aad6-c0f3da08bef3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_e208f4df-6cc7-40f6-bf4e-cc14742a8523.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_ab0cd784-8317-48d8-9929-c0e453069f40.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_913fa222-c630-401e-bad5-a146964c65e1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_9b62d8c9-fa95-4315-ae41-668f5b3e9913.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_65ed1c36-5f8a-4d4f-9e83-10a7534009c1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_8b4c3621-bcf7-4c90-9fda-edade3134798.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_cfd98b26-fc73-46c9-a5fe-de635b05e2ed.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_e4b1dc2f-fa6c-4f0f-9440-ca697c98de59.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_aa928bd8-2592-4a4e-8862-66f867c8f750.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_ca3b83f2-e4d6-4401-b42c-2633492698ba.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_1c8b52a4-7bcd-4a62-a5e7-2ea82d3f4daf.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_1eb6973d-256b-46e1-8334-fa82e555d190.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_062973da-6100-4965-a97e-7817268fa949.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_f2e09156-79d9-4058-a73a-e9052b567031.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_c79502ab-3e09-4dce-9b3e-c838c3400db3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_06a19af6-1fa5-4fe5-80db-0320a6366bf2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/fa15f6ea-bf86-4761-ae18-9e7130856932_724e9dba-c6a3-464a-b0ed-1afb56e0c28b.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 12.200,-",
+          "priceEvaluation": 1,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-2t-xhl-s-s-edition-100-gasolina-negro-fa15f6ea-bf86-4761-ae18-9e7130856932",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2T XHL S/S Edition 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "3007",
+          "city": "MURCIA"
+        },
+        "seller": {
+          "id": "43632272",
+          "type": "Dealer",
+          "companyName": "FLEXICAR MURCIA.",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/flexicar-murcia-murcia?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/flexicar-murcia-murcia/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 868274602",
+              "callTo": "+34868274602"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.24092778948578153",
+          "isSmyleEligible": "false",
+          "mileage": "90000",
+          "priceLabel": "top-price",
+          "price": "12200",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24092778948578153,
+        "vehicleDetails": [
+          {
+            "data": "90.000 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "74 kW (101 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "db67b2e2-c2c8-4145-876e-5741279b5566",
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_458168bf-f5fb-4347-91ea-c563ed3dceb0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_330185de-925a-42b9-891c-989717347f8d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_0f23f34f-5c12-4b83-b336-6dabd9d28474.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_90c45e85-bb20-479e-9bf3-6fea2d3a453d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_ec3a0197-0b61-4811-9a53-b943c469945a.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_3d0f4350-3991-4e29-b0ab-bc7d31f3d75e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_06002115-ece3-45d8-8f7b-b8eac54030df.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_79629c20-e25e-41ed-a980-a153647ef879.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_205ff122-a79b-4903-9368-42d847e7bf70.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_1238a8bb-aefa-481e-84b0-3625e30cb8fb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_1914f6a5-e307-4cf3-bf8c-33ef7b61de0b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_9323d351-194e-4e09-8870-eafe5f796e11.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_0a945e2e-3f8a-417b-a03a-acee9602c6f4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_950b1a6e-d0e1-4af3-8769-965b4670da04.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/db67b2e2-c2c8-4145-876e-5741279b5566_3d2796a6-c193-473d-81f3-4958220fbf2a.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "isOfferNew": true,
+        "price": {
+          "priceFormatted": "€ 11.682,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-elegance-100-diesel-negro-db67b2e2-c2c8-4145-876e-5741279b5566",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Elegance 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "08830",
+          "city": "SANT BOI DE LLOBREGAT"
+        },
+        "seller": {
+          "id": "45530914",
+          "type": "Dealer",
+          "companyName": "CRESTANEVADA BARCELONA",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/crestanevada-barcelona-sant-boi-de-llobregat?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/crestanevada-barcelona-sant-boi-de-llobregat/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 936162818",
+              "callTo": "+34936162818"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "12-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.24260265327956054",
+          "isSmyleEligible": "true",
+          "mileage": "42817",
+          "priceLabel": "toolow-price ",
+          "price": "11682",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24260265327956054,
+        "vehicleDetails": [
+          {
+            "data": "42.817 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "12/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "6a34efa3-510f-4a4d-a141-054faa266d12",
+        "legacyId": 459083850,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_c054122b-c87a-4729-8209-ab8092e2ade2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_dc3755a6-afec-46e9-9915-a2aff422a3c7.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_730a8e2a-d083-49dc-ab75-6a4f8fe0e972.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_47109fa2-4035-4071-9809-abdf276225f1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_23330513-7b0a-4bd2-b4e3-77d3c5f7b238.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_d06711dd-9ff7-45a1-bb4f-c3b7c552de95.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_5eaf6bea-0ff9-498d-9dfc-121bd77c644a.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_40a74fc3-cf3f-4794-9bb3-f7e02537a3a0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/6a34efa3-510f-4a4d-a141-054faa266d12_b3514de9-85e4-4691-b6dd-334548d85e2b.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 13.499,-",
+          "priceEvaluation": 1,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-2t-gsline-s-s-100cv-gasolina-blanco-6a34efa3-510f-4a4d-a141-054faa266d12",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2T GSLine S/S 100CV",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "46470",
+          "city": "Albal"
+        },
+        "seller": {
+          "id": "45184369",
+          "type": "PrivateSeller",
+          "links": {
+            "infoPage": "/lst?atype=C&cid=45184369"
+          },
+          "phones": [
+            {
+              "phoneType": "Private",
+              "formattedNumber": "+34 (0)617 - 571975",
+              "callTo": "+34617571975"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Some"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "06-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.263525699793584",
+          "isSmyleEligible": "true",
+          "mileage": "52853",
+          "priceLabel": "top-price",
+          "price": "13499",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.263525699793584,
+        "vehicleDetails": [
+          {
+            "data": "52.853 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "06/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "9dfdf992-d2e3-4df7-b991-c1bd5df15955",
+        "legacyId": 459377127,
+        "images": [],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 10.200,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-2-direct-inj-turbo-start-stop-automatik-elegance-gasolina-negro-9dfdf992-d2e3-4df7-b991-c1bd5df15955",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2 Direct Inj Turbo Start/Stop Automatik Elegance",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "46017",
+          "city": "València"
+        },
+        "seller": {
+          "id": "45064018",
+          "type": "PrivateSeller",
+          "links": {
+            "infoPage": "/lst?atype=C&cid=45064018"
+          },
+          "phones": [
+            {
+              "phoneType": "Private",
+              "formattedNumber": "+55 (0)12 - 988240033",
+              "callTo": "+5512988240033"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Some"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2020",
+          "fuelType": "b",
+          "imageContent": "unknown|unknown",
+          "isSmyleEligible": "false",
+          "mileage": "30000",
+          "priceLabel": "toolow-price ",
+          "price": "10200",
+          "orderBucket": "2"
+        },
+        "vehicleDetails": [
+          {
+            "data": "30.000 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Automático",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "74 kW (101 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "561d5e23-f4e6-48a7-aea3-e6c787c5aaea",
+        "legacyId": 459738314,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_e0733a98-220f-487b-897e-292c2da285ae.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_5585e92b-ef94-4df6-88fc-f8ec3bf1da3b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_88552eab-bcb2-4b4e-a70b-1a4f29bfadcf.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_abc8a6ea-4e58-4b42-bd82-781ebc67587c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_d51a39a4-09be-4a7e-9497-532193997cfd.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_978b7ccc-d6d6-40a4-896a-db51cde829e8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_977422dc-a546-4517-896e-ef9c31a98426.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_9708f048-9210-47c5-af6b-d4d72c49d919.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_9f88ac0d-e19f-44fc-ae80-6b7575e4575f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_c85ed924-d10c-4f1f-9875-5eb87b7f4317.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_1dbf1fed-f7ae-401a-bfb1-582aa81f1eb6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_e94f0c5b-24c6-433d-99de-179ac532696e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_322f06cf-4102-4e0d-aa21-3b8b77ecad66.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_e348d987-93a3-4c34-a611-91e460250957.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_25ed744d-3413-4b27-948e-88d006447db3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/561d5e23-f4e6-48a7-aea3-e6c787c5aaea_bea488c6-9951-4e76-ba45-771952bedc1f.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 8.590,-",
+          "priceEvaluation": 1,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-4-color-edition-90-4-75-gasolina-blanco-561d5e23-f4e6-48a7-aea3-e6c787c5aaea",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.4 Color Edition 90 (4.75)",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "28003",
+          "city": "MADRID"
+        },
+        "seller": {
+          "id": "44249084",
+          "type": "Dealer",
+          "companyName": "PABLO BERNAL GRAVALOS",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/pablo-bernal-gravalos?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/pablo-bernal-gravalos/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 919374219",
+              "callTo": "+34919374219"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "10-2019",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.3094269327914164",
+          "isSmyleEligible": "false",
+          "mileage": "70000",
+          "priceLabel": "top-price",
+          "price": "8590",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.3094269327914164,
+        "vehicleDetails": [
+          {
+            "data": "70.000 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "10/2019",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "66 kW (90 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "661f8329-a5ed-401d-b9e1-089f11e71d64",
+        "legacyId": 461387429,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_e7bbf309-8f95-4798-8143-8ee19f9035a7.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_3144e9c7-ff0e-4459-bc2e-3817dfff61b1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_892daca6-96e3-44cf-99b7-fd8bb0cd161c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_eedda297-d02e-43cc-9745-e15c65f3a59b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_94e89ad7-698d-4ae4-a9f6-4976b3aebe7e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_af5c05f4-7995-4c7d-a183-ed3f88d4eae8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_16c36591-59b3-47c9-b50f-8f6abdf40152.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_1bef2487-16cb-4ea2-9e17-e8a8bc1110e8.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_bb532ecd-2180-4640-ab54-9ecfb09bbbee.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_6da155a3-ba1b-4512-9c0f-1067219fea80.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_06da2b3c-58d9-4c4c-afd2-47607adffcb2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_ef9ec1d0-c905-4e8d-8032-0fc7a9b51af1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/661f8329-a5ed-401d-b9e1-089f11e71d64_6fe3f869-5ab4-41fa-95b9-0476c109fd8a.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 10.400,-",
+          "priceEvaluation": 0,
+          "priceSuperscriptString": "1",
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-edition-100-diesel-blanco-661f8329-a5ed-401d-b9e1-089f11e71d64",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Edition 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "15171",
+          "city": "OLEIROS"
+        },
+        "seller": {
+          "id": "45530782",
+          "type": "Dealer",
+          "companyName": "BTA MOTOR",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/bta-motor?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/bta-motor/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 881280593",
+              "callTo": "+34881280593"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "03-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.15599199738391845",
+          "isSmyleEligible": "false",
+          "mileage": "91072",
+          "priceLabel": "toolow-price ",
+          "price": "10400",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.15599199738391845,
+        "vehicleDetails": [
+          {
+            "data": "91.072 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "03/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "241e89e7-95b3-4fa9-850c-2a7e3ee0188e",
+        "legacyId": 457780408,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_755ab2d3-358b-4a53-806e-57749973a9c4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_36e0440a-7a17-43d4-8b39-187c76be6576.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_255e3ae9-79d7-4814-94f4-e2e334443c60.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_34133b79-8ff7-4454-b1c1-b2ca71fe9901.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_fcb4bc71-5413-4ec8-9cef-68985750a0a4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_777bcab7-97d4-45dd-b1dd-86affc369fe6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_88079da7-2293-450b-8a08-802366d8d078.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_bfe1bddc-c29c-4035-a0b0-a75d2b70f643.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_33afe8eb-5bec-4191-b5a0-cff5c03862f6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_023148f2-0d4f-4949-a09b-2b2925913b54.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_ae48b9ca-675f-464e-b5fd-194c5a40aa21.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_6acaefcc-206d-4d2c-a312-8973baa5e675.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_6aa68eff-1ae4-4798-90ed-0b3ca90f9573.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_b6cb2862-f764-4292-8ff9-88b2ee697782.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_c511e99a-e8db-42ee-bde6-1331878c96d0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_56ebb7d2-a8a3-4331-afb8-c3b943da58b6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_3f727954-bea9-4715-925e-91d9160ee55c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_6666bff5-52a3-4986-a523-ba14a39b9420.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_e84167fe-d81f-444b-b34c-e77c06919ddf.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_639fd709-c429-43a1-9fe7-65357dcd9fe3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_5587fb61-33ac-4591-aed4-323f168ff6ea.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_f673a67f-2f5a-4a2b-b7a2-bf691a4404ca.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_32d8244d-8fc0-4e54-9665-8094d72a7ea1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_54543b38-d660-4e26-9f3d-53918910f1b0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_5dc38c70-f0fb-4913-8080-b34611011274.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_442f1e78-e893-4f7f-b236-2bf330beefd4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_9742089e-4cfb-4137-ae49-21494c3f3b55.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/241e89e7-95b3-4fa9-850c-2a7e3ee0188e_0d509912-26d2-436b-920c-6bbcc819f294.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 11.290,-",
+          "priceEvaluation": 0,
+          "priceSuperscriptString": "1",
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-2t-xhl-s-s-edition-100-gasolina-blanco-241e89e7-95b3-4fa9-850c-2a7e3ee0188e",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2T XHL S/S Edition 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "22004",
+          "city": "HUESCA"
+        },
+        "seller": {
+          "id": "44094083",
+          "type": "Dealer",
+          "companyName": "FLEXICAR HUESCA",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/flexicar-huesca?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/flexicar-huesca/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 974141176",
+              "callTo": "+34974141176"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "09-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.23875155408056703",
+          "isSmyleEligible": "true",
+          "mileage": "57182",
+          "priceLabel": "toolow-price ",
+          "price": "11290",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.23875155408056703,
+        "vehicleDetails": [
+          {
+            "data": "57.182 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "09/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "74 kW (101 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "f3f47716-9f86-40fb-a56d-d5dcbfd9374e",
+        "legacyId": 458063409,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_4b852903-31b0-4bc8-a257-1a18cdc8280c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_ff29263b-fa66-4a2e-a82e-dd912f500002.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_43494e24-92cb-4ed2-b25d-d75ba29edad4.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_bd261976-453f-47be-9dd2-e168859df143.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_779c6487-d893-4986-b921-f53dfab05ad2.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_26821b0e-12f5-44ab-8ea1-1ec8820aac65.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_36095e93-136a-4df6-b7d5-605bb4718e6c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_6898f7bc-a655-44ed-8e89-bcbc897a60f0.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_b61e8289-f7a7-4517-bf38-c66993bc2e72.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_7e0bbcc5-ca75-4bdc-b607-c9ea2372eceb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_f750f065-227f-4ebb-9456-4af693b32013.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_1db7ebc5-5de6-4c0f-8482-5741a0eb9c05.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_098368f8-4d54-4615-a19d-317bc9f68ec7.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_d6ff9432-0e07-434d-ad61-9ae8cea53053.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_b6f3186b-9f1e-40c9-b22d-216f50bf820e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_1d4fee51-1677-4197-a769-663eff949c61.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_c45e8913-5e21-4883-9920-c01f43034bcb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_287e2bf8-2e8c-4637-852f-537b99ae2d48.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_83c1aede-a45e-4a0b-940f-9ecb185bceea.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_51ff629f-cf96-4863-86ce-20243cde2571.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_4ff48e63-25f7-4bbb-a049-dd256ba52e2c.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_96d191d5-bcbb-4832-bee8-68acca2975cc.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f3f47716-9f86-40fb-a56d-d5dcbfd9374e_8f768232-c343-454d-906a-64cab0e96533.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 12.200,-",
+          "priceEvaluation": 1,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-2t-xhl-s-s-edition-100-gasolina-negro-f3f47716-9f86-40fb-a56d-d5dcbfd9374e",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.2T XHL S/S Edition 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "03007",
+          "city": "ALICANTE"
+        },
+        "seller": {
+          "id": "43632696",
+          "type": "Dealer",
+          "companyName": "FLEXICAR ALICANTE.",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/flexicar-alicante-alicante?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/flexicar-alicante-alicante/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 865735069",
+              "callTo": "+34865735069"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.24092778948578153",
+          "isSmyleEligible": "false",
+          "mileage": "90000",
+          "priceLabel": "top-price",
+          "price": "12200",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24092778948578153,
+        "vehicleDetails": [
+          {
+            "data": "90.000 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "74 kW (101 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "5cb465fe-7e65-4f9f-b25d-be855aedd853",
+        "evBanner": {
+          "type": "electric",
+          "label": "Eléctrico"
+        },
+        "legacyId": 453867796,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_d8c74de4-26b1-487e-8732-75497c8603cb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_e0da4d4f-dbc3-441c-a6a3-27351a507da3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_e44d63c4-7f85-49db-a257-ec8eac645918.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_60af34b4-5a75-49fa-b731-3639d904ca8f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_83738e58-65e4-4fac-8a0d-8077725c2742.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_5c02d5c9-a65f-455d-acd8-bb0e9f0b9c87.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_705c7579-a170-4f4e-80f3-098cb38e941e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_dd7845a0-e62f-431a-820b-4780653d1fa3.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_d9876964-4ab2-4365-966f-7cb9f589a92b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_c8d5eee0-56ec-46a1-96ef-33a83d77c295.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_ebe0b78f-c541-4c6d-9f3f-0aee1af424eb.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_fbfd5b35-36ab-447d-8a1b-e3f61d87d5ef.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_e52548af-1f12-4062-9ae6-f427fd0cd5ad.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_8705f051-8312-4560-8752-4a6d65465bdd.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_b86680b8-54c8-4d5f-8625-18f204b771cd.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_feaae476-432e-42e2-8e63-622d5b496a19.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_c6208968-95dd-4698-ab5e-3b083fed0d75.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_3babbf6b-6606-4c57-8f69-ff060012bc2d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_1299752f-4459-4aa4-b774-9bdec9e7b9c6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/5cb465fe-7e65-4f9f-b25d-be855aedd853_c1ea48fd-2daf-49e6-bee6-9ea41330f3e3.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 14.490,-",
+          "priceEvaluation": 0,
+          "priceSuperscriptString": "1",
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-corsa-e-edition-e-electrico-5cb465fe-7e65-4f9f-b25d-be855aedd853",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "Corsa-e Edition-e",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "07009",
+          "city": "Palma"
+        },
+        "seller": {
+          "id": "41645719",
+          "type": "Dealer",
+          "companyName": "FLEXICAR MALLORCA",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/flexicar-mallorca?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/flexicar-mallorca/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 871214222",
+              "callTo": "+34871214222"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2020",
+          "fuelType": "e",
+          "imageContent": "no-placeholder|0.3702014084201718",
+          "isSmyleEligible": "true",
+          "mileage": "46637",
+          "priceLabel": "toolow-price ",
+          "price": "14490",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.3702014084201718,
+        "vehicleDetails": [
+          {
+            "data": "46.637 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Automático",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Eléctrico",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "100 kW (136 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "cd95bdc7-d1b9-4ec4-b9d7-f2b9ac9b7f49",
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/cd95bdc7-d1b9-4ec4-b9d7-f2b9ac9b7f49_1ecb15da-82f0-46b0-991e-411c6215b331.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/cd95bdc7-d1b9-4ec4-b9d7-f2b9ac9b7f49_8db99fbe-1fb8-4fb6-98a7-db5fc9cf3948.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/cd95bdc7-d1b9-4ec4-b9d7-f2b9ac9b7f49_b88dad71-c03f-4792-bd33-05db6d122376.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/cd95bdc7-d1b9-4ec4-b9d7-f2b9ac9b7f49_6d296e16-73ad-486b-b60f-9577e6366ec3.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 10.700,-",
+          "priceEvaluation": 4,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-3cdti-business75-diesel-gris-cd95bdc7-d1b9-4ec4-b9d7-f2b9ac9b7f49",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.3CDTI Business75",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "17441",
+          "city": "Brunyola"
+        },
+        "seller": {
+          "id": "44750723",
+          "type": "Dealer",
+          "companyName": "AUTOS TONI",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/autos-toni-brunyola-17441?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/autos-toni-brunyola-17441/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 872452470",
+              "callTo": "+34872452470"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "09-2019",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.24077001242831908",
+          "isSmyleEligible": "false",
+          "mileage": "72000",
+          "priceLabel": "somewhat-expensive",
+          "price": "10700",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.24077001242831908,
+        "vehicleDetails": [
+          {
+            "data": "72.000 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "09/2019",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "55 kW (75 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "f65be59b-4909-447d-927b-34ef2bfe949b",
+        "legacyId": 461375912,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_c4b19776-8c09-4f7d-b4f0-60eab3aae508.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_67e513aa-1b0e-40e5-8861-19f5a137056f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_1445319c-b119-4ad3-8579-81b33bb49328.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_c7cfdb32-76bb-4cd2-90ae-b7b74c6a938e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_096072bb-7f89-4e8c-86b1-1d43748fbba1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_69621b8a-3aa0-44d5-a59e-5e3efa35d981.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_93f280cc-905f-48e8-bdcc-b60343d4eb31.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_d70924b1-75ef-4664-a88d-a5b340a25df7.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_2a0610fc-9c82-4661-90d2-1b6cc134b259.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_14f34936-cff3-4e46-af89-6eaf609a600f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_f7bb797e-c80a-4b56-b501-24c5b085337b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_735c74da-c199-4604-a5c3-7def172e260e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_4eb17261-b2eb-49a6-9178-32c9ecdce5ca.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_efd0d11f-b484-42eb-8f2f-738e87bec848.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/f65be59b-4909-447d-927b-34ef2bfe949b_e727777e-4bb1-4caf-bc47-9d398b0bac7d.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 13.000,-",
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-editin-plus-gasolina-rojo-f65be59b-4909-447d-927b-34ef2bfe949b",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "Editin Plus",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "06800",
+          "city": "Merida (Badajoz)"
+        },
+        "seller": {
+          "id": "45531283",
+          "type": "PrivateSeller",
+          "links": {
+            "infoPage": "/lst?atype=C&cid=45531283"
+          },
+          "phones": [
+            {
+              "phoneType": "Private",
+              "formattedNumber": "+34 (0)633 - 307609",
+              "callTo": "+34633307609"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Some"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "03-2020",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.13422775562045253",
+          "isSmyleEligible": "false",
+          "mileage": "60000",
+          "priceLabel": "unknown",
+          "price": "13000",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.13422775562045253,
+        "vehicleDetails": [
+          {
+            "data": "60.000 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "- Transmisión",
+            "isPlaceholder": true,
+            "iconName": "transmission"
+          },
+          {
+            "data": "03/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "100 kW (136 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "a00fdc84-c4a3-49f5-a652-164e46ffc1f4",
+        "legacyId": 460259309,
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_b29afef3-19c7-4574-8374-0ef941e80fc6.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_1be31ecf-f105-49f5-9d86-91d64ba7bb6d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_7e279b87-d7ba-483b-850a-2496b0fec972.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_078d73e7-b3c3-472f-97b5-f5499971004d.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_f1936e70-ffc2-49ca-b5bc-ddbd72fbbe2b.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_4f70fb79-73ff-4482-b1d9-76082f0dfe79.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_f53536cc-2f74-4e42-b97d-2db0d514e852.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_7d7d509d-f383-4707-8bf8-62dd0ac2454f.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_6a5ce110-368d-42c6-b57f-a0edcaed28cc.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_0b5fc987-8dd5-4767-85e4-df1b5ebcb7ae.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_d81ca9bb-1b2f-437f-9bbb-7dc2420aab33.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_b50ce074-54b9-405c-ad1a-1086e1c4f61e.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_8a630570-684a-4aa6-aca8-c6aaa67f1b95.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_0fd7621e-7432-415d-ae27-e3d388f94840.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_60f47f35-bc9a-46c4-85ef-5faec7020f1a.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/a00fdc84-c4a3-49f5-a652-164e46ffc1f4_6bf3d1f4-1505-42a5-b6f3-b6a0761776f6.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 8.600,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-4-120-aniversario-90-gasolina-azul-a00fdc84-c4a3-49f5-a652-164e46ffc1f4",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.4 120 Aniversario 90",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "3320",
+          "city": "Alicante"
+        },
+        "seller": {
+          "id": "41484474",
+          "type": "Dealer",
+          "companyName": "CLICK AUTOS ALICANTE",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/click-autos-alicante-alicante?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/click-autos-alicante-alicante/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 865734727",
+              "callTo": "+34865734727"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "03-2019",
+          "fuelType": "b",
+          "imageContent": "no-placeholder|0.17784694380650024",
+          "isSmyleEligible": "false",
+          "mileage": "54646",
+          "priceLabel": "toolow-price ",
+          "price": "8600",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.17784694380650024,
+        "vehicleDetails": [
+          {
+            "data": "54.646 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "03/2019",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Gasolina",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "66 kW (90 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      },
+      {
+        "id": "7425ddba-4be8-4730-9ec1-9a739eca83ec",
+        "images": [
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_6e06a261-0020-4317-818c-1dda9dbc20df.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_d8340024-4289-4f71-89ab-31a0d8263f0a.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_d2899110-343d-4f1c-9d40-543cc22e75f1.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_768823c5-f7a7-4b88-8289-c1a41412a767.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_7938b30d-b515-4b38-b51e-49234570c641.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_0cf91641-ec31-45bc-b713-9bd4172b7e93.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_83fb6285-e9ed-46ad-9d1b-f9a678c74826.jpg/250x188.webp",
+          "https://prod.pictures.autoscout24.net/listing-images/7425ddba-4be8-4730-9ec1-9a739eca83ec_0da808e3-272a-4e18-98cf-84aba3820eb0.jpg/250x188.webp"
+        ],
+        "ocsImagesA": [],
+        "price": {
+          "priceFormatted": "€ 13.500,-",
+          "priceEvaluation": 0,
+          "isPriceEvaluationEnabled": true
+        },
+        "availableNow": true,
+        "superDeal": {
+          "oldPriceFormatted": "",
+          "isEligible": false
+        },
+        "url": "/anuncios/opel-corsa-1-5d-dt-s-s-elegance-100-diesel-negro-7425ddba-4be8-4730-9ec1-9a739eca83ec",
+        "vehicle": {
+          "articleType": "Car",
+          "make": "Opel",
+          "model": "Corsa",
+          "modelVersionInput": "1.5D DT S/S Elegance 100",
+          "subtitle": null,
+          "offerType": "U"
+        },
+        "location": {
+          "countryCode": "ES",
+          "zip": "47610",
+          "city": "ZARATAN"
+        },
+        "seller": {
+          "id": "41973212",
+          "type": "Dealer",
+          "companyName": "ALD VALLADOLID DURSAN",
+          "contactName": "Contáctanos en:",
+          "links": {
+            "infoPage": "https://www.autoscout24.es/profesionales/ald-valladolid-dursan?atype=C",
+            "imprint": "https://www.autoscout24.es/profesionales/ald-valladolid-dursan/aviso-legal"
+          },
+          "phones": [
+            {
+              "phoneType": "Office",
+              "formattedNumber": "+34 - 883872013",
+              "callTo": "+34883872013"
+            }
+          ]
+        },
+        "appliedAdTier": "T10",
+        "adTier": "T10",
+        "isOcs": false,
+        "specialConditions": [],
+        "statistics": {
+          "leadsRange": "Zero"
+        },
+        "searchResultType": "Organic",
+        "tracking": {
+          "firstRegistration": "01-2020",
+          "fuelType": "d",
+          "imageContent": "no-placeholder|0.3086979175871478",
+          "isSmyleEligible": "true",
+          "mileage": "42817",
+          "priceLabel": "toolow-price ",
+          "price": "13500",
+          "orderBucket": "2"
+        },
+        "coverImageAttractiveness": 0.3086979175871478,
+        "vehicleDetails": [
+          {
+            "data": "42.817 km",
+            "iconName": "mileage_road"
+          },
+          {
+            "data": "Manual",
+            "iconName": "transmission"
+          },
+          {
+            "data": "01/2020",
+            "iconName": "calendar"
+          },
+          {
+            "data": "Diésel",
+            "iconName": "nozzle"
+          },
+          {
+            "data": "75 kW (102 CV)",
+            "iconName": "speedometer"
+          }
+        ],
+        "isAmmListing": false
+      }
+    ],
+    "numberOfOcsResults": 0,
+    "trackingId": "3sxmzo2y24",
+    "isMobile": false,
+    "taxonomy": null,
+    "translations": null,
+    "adTargetingString": "{\"seg\":\"subcompact\",\"vat\":\"0\",\"rnd\":\"35\",\"price\":\"1,2,3,4,5,6,7,8,9,10\",\"fr\":\"9,10\",\"type\":\"U,N,D,O,J,S\",\"articleType\":\"C\",\"make\":\"54\",\"model\":\"1918\",\"leasing\":\"false\",\"buyonline\":\"false\",\"countrySearch\":\"ES\",\"refactor\": \"list2021\"}",
+    "loggedInCustomerTypeId": "",
+    "recommendations": [],
+    "userSession": {
+      "visitorId": "21e33d66-c760-42ca-a4b9-e931f442acba",
+      "isLoggedIn": false
+    },
+    "seoText": null,
+    "latestUserSession": null,
+    "togglingParams": {
+      "see-abtest-performance-marketing-landing-page": false,
+      "see-abtest-performance-marketing-landing-page-de": false,
+      "activate_abtest-229_historical-ctr_ltr_model_v34": false,
+      "activate_abtest-272_personalised_ltr_model_v41": false,
+      "ugacq-1066-selling-cta": false,
+      "activate-abtest-289-rnr-vs-ranker-for-nfm": false,
+      "activate-abtest-332-pp-rnr-vs-ranker-in-de": false,
+      "abtest-383-ltr-v50-without-smyle-feature": false,
+      "as24-search-funnel-nfm-enabled": false,
+      "cpt-abtest-471-lowest-interest-rate": false,
+      "disable-ads-and-tracking": false,
+      "ocs-smyle-checkout-financing-disabled": false,
+      "enable-404-for-invalid-parameter": false,
+      "enable-404-redirects": false,
+      "enable-404-redirects-logging": false,
+      "abtest-234_core_cars_show_option_for_online_purchase_smyle": false,
+      "abtest-344-saved-search-floating-cta-on-list-page": false,
+      "abtest-361-contact-cta-in-list-page-items": false,
+      "see-new-list-page-ai-search": false,
+      "abtest-380-mia-uplift-counterfactual-experiment": false,
+      "abtest-393-dealer-level-test": false,
+      "abtest-397-amm-carousel-relaxed": false,
+      "abtest-402-check24-wordings": false,
+      "abtest-417-ensemble-model-with-lead-probability-with-historical-kpis": false,
+      "abtest-418-ensemble-model-query-independent-etc": false,
+      "abtest-421-as24-experts": false,
+      "abtest-438-use-user-location-for-all-searches": false,
+      "abtest-453-chips-within-search-mask": false,
+      "abtest-456_ltr-model-v5_1-targeting-leads-with-position-debias": false,
+      "abtest-470-dealer-optimised-mia-selection": false,
+      "abtest-346-variation-a": false,
+      "abtest-346-variation-b": false,
+      "abtest-374-list-header-cleanup-v2": false,
+      "abtest-423-it-amm-list-items": false,
+      "abtest-441-at-amm-list-items": false,
+      "enable-abtest-451-highlight-dealer-rating": false,
+      "ign-1825-superdeal-renaming": false,
+      "cpt-integrate-addefend-at": false,
+      "enable-ai-search-de": false,
+      "cp-check24-fallback-new-wording": false,
+      "enable-custom-list-pages": false,
+      "sr-debug-ranking-in-list-page": false,
+      "cpt-new-list-page-direct-finance-api-call": false,
+      "dualprice-feature-at": false,
+      "dualprice-feature-be": false,
+      "dualprice-feature-de": false,
+      "dualprice-feature-es": false,
+      "dualprice-feature-nl": false,
+      "electric-vehicle-experience": false,
+      "cpt-financing-and-insurance-nl-list-page": false,
+      "enable-inp-data-dog-logging": true,
+      "leasint-661-leasing-notification": false,
+      "li-model-group": false,
+      "abtest-346-listpage-header-cleanup": false,
+      "abtest-420-mia-tier-rotation-test": false,
+      "enable-national-listings-tail-ui-changes": false,
+      "enable-national-listings-ui-changes": false,
+      "feedbackform-detailpage-feature": false,
+      "see-1969-display-new-conditions": false,
+      "new-price-labels-translations": false,
+      "ocs-smyle-restore-checkout-session-list-page": true,
+      "ocs-smyle-restore-checkout-offline-session-list-page": true,
+      "ocs-smyle-concise-list-item": true,
+      "enable-ocs-smyle-financing-cta": true,
+      "enable-queryparam-validation-in-sf": true,
+      "cpt-enable-resume-financing-listpage": false,
+      "enable-tooltip-in-sase": false,
+      "enable_save-search_without_login": false,
+      "ugaa-1798-save-lase-on-list-page": true,
+      "sr-enable-showing-smyle-listing-after-location-search": false,
+      "enable-trade-in-filter": false,
+      "ls-api-extra-logs": false,
+      "force-abtest-421-variation": false,
+      "force-abtest-453-variation-1": false,
+      "force-abtest-453-variation-2": false,
+      "abtest-374-list-header-cleanup-v2-variation-a": true,
+      "force-abtest-397-variation-a": false,
+      "force-abtest-397-variation-b": false,
+      "force-abtest-423-variation-a": false,
+      "force-abtest-441-variation-a": false,
+      "force-listpage-alternative-recommendations": false,
+      "ugact-1081-navigation-redesign": true,
+      "ugaa-1081-last-search-bell-notification": false,
+      "leasing-list-page-italy": false,
+      "see-1939-new-vehicle-accident-filter": false,
+      "reserve-max-height-ads-mobile": false,
+      "abtest-419-show-only-leasing-markt-inventory": false,
+      "ugaa-1452-sase-api-cors": true
+    },
+    "interlinking": [
+      {
+        "id": "moreDetails",
+        "groupName": "Más detalles",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/coches/opel/opel-corsa/",
+            "anchorText": "Opel Corsa"
+          },
+          {
+            "url": "https://www.autoscout24.es/coches/opel/opel-corsa/datos-tecnicos/",
+            "anchorText": "Opel Corsa Especificaciones técnicas"
+          }
+        ]
+      },
+      {
+        "id": "versions",
+        "groupName": "Versión",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_1.4",
+            "anchorText": "Opel Corsa 1.4"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_1.6-opc",
+            "anchorText": "Opel Corsa 1.6 opc"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_gs-line",
+            "anchorText": "Opel Corsa GS Line"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_gs-line",
+            "anchorText": "Opel Corsa GS line"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_gsi",
+            "anchorText": "Opel Corsa Gsi"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_opc",
+            "anchorText": "Opel Corsa Opc"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_black-edition",
+            "anchorText": "Opel Corsa Black-edition"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_gs",
+            "anchorText": "Opel Corsa Gs"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_gs-line",
+            "anchorText": "Opel Corsa Gs-line"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_gsi",
+            "anchorText": "Opel Corsa Gsi"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_nurburgring",
+            "anchorText": "Opel Corsa Nurburgring"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ve_opc",
+            "anchorText": "Opel Corsa Opc"
+          }
+        ]
+      },
+      {
+        "id": "bodyTypes",
+        "groupName": "Carrocería",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bt_coche-pequeño",
+            "anchorText": "Coche pequeño"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bt_sedán",
+            "anchorText": "Sedán"
+          }
+        ]
+      },
+      {
+        "id": "offerTypes",
+        "groupName": "Estado del vehículo",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ot_demostración",
+            "anchorText": "Opel Corsa Demostración"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ot_km0",
+            "anchorText": "Opel Corsa KM0"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ot_ocasión",
+            "anchorText": "Opel Corsa Ocasión"
+          }
+        ]
+      },
+      {
+        "id": "cities",
+        "groupName": "Ciudad",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/alicante",
+            "anchorText": "ALICANTE"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bilbao",
+            "anchorText": "BILBAO"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/castellon",
+            "anchorText": "CASTELLON"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ciudad-real",
+            "anchorText": "CIUDAD REAL"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/granada",
+            "anchorText": "GRANADA"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/madrid",
+            "anchorText": "MADRID"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/malaga",
+            "anchorText": "MALAGA"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/murcia",
+            "anchorText": "Murcia"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/paterna",
+            "anchorText": "PATERNA"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/sevilla",
+            "anchorText": "SEVILLA"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/terrassa",
+            "anchorText": "TERRASSA"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/zaragoza",
+            "anchorText": "ZARAGOZA"
+          }
+        ]
+      },
+      {
+        "id": "fuelTypes",
+        "groupName": "Tipos de combustible",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ft_diésel",
+            "anchorText": "Opel Corsa Diésel"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ft_eléctrico",
+            "anchorText": "Opel Corsa Eléctrico"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ft_gas-licuado-(glp)",
+            "anchorText": "Opel Corsa Gas licuado (GLP)"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/ft_gasolina",
+            "anchorText": "Opel Corsa Gasolina"
+          }
+        ]
+      },
+      {
+        "id": "bodyColors",
+        "groupName": "Color de la carrocería",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bc_azul",
+            "anchorText": "Azul"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bc_blanco",
+            "anchorText": "Blanco"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bc_gris",
+            "anchorText": "Gris"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bc_negro",
+            "anchorText": "Negro"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bc_plateado",
+            "anchorText": "Plateado"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/bc_rojo",
+            "anchorText": "Rojo"
+          }
+        ]
+      },
+      {
+        "id": "registrations",
+        "groupName": "Año",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2015",
+            "anchorText": "Opel Corsa 2015"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2016",
+            "anchorText": "Opel Corsa 2016"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2017",
+            "anchorText": "Opel Corsa 2017"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2018",
+            "anchorText": "Opel Corsa 2018"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2019",
+            "anchorText": "Opel Corsa 2019"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2020",
+            "anchorText": "Opel Corsa 2020"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2021",
+            "anchorText": "Opel Corsa 2021"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2022",
+            "anchorText": "Opel Corsa 2022"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/re_2023",
+            "anchorText": "Opel Corsa 2023"
+          }
+        ]
+      },
+      {
+        "id": "transmissions",
+        "groupName": "Transmisión",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/tr_automático",
+            "anchorText": "Automático"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/corsa/tr_manual",
+            "anchorText": "Manual"
+          }
+        ]
+      },
+      {
+        "id": "similarModelsLst",
+        "groupName": "Modelos alternativos",
+        "links": [
+          {
+            "url": "https://www.autoscout24.es/lst/opel/astra",
+            "anchorText": "Opel Astra Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/ford/fiesta",
+            "anchorText": "Ford Fiesta Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/meriva",
+            "anchorText": "Opel Meriva Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/seat/others",
+            "anchorText": "SEAT Others Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/kadett",
+            "anchorText": "Opel Kadett Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/karl",
+            "anchorText": "Opel Karl Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/peugeot/206",
+            "anchorText": "Peugeot 206 Ocasión"
+          },
+          {
+            "url": "https://www.autoscout24.es/lst/opel/tigra",
+            "anchorText": "Opel Tigra Ocasión"
+          }
+        ]
+      }
+    ],
+    "optimizelyResults": {
+      "abTest344FloatingSaseCtaDesktop": null,
+      "abTest272PersonalisedLtrModelV41Variation": null,
+      "abTest267MarketingLandingPageList": null,
+      "abTest331MarketingLandingPageList": null,
+      "enableAbTest275NavigationSellingCTA": null,
+      "enableAbTest289RnrVsRankerForNfm": null,
+      "enableAbTest332RnrVsRankerInDe": null,
+      "abTest229CtrLtrModelV34": null,
+      "abTest271ListPageCarousel": null,
+      "abTest346ListPageHeaderCleanup": null,
+      "abTest361ListItemCTA": null,
+      "abTest383LtrV50WithoutSmyleFeature": null,
+      "abTest374ListpageHeaderCleanupV2": null,
+      "abTest393DealerOptimisationWithContinuousRotation": null,
+      "abTest380MiaUpliftCounterfactualExperiment": null,
+      "abTest402LpCheck24Wordings": null,
+      "abTest397ListPageCarouselRelaxed": null,
+      "abTest421As24Experts": null,
+      "abTest423ItAmmListItems": null,
+      "abTest419ShowOnlyLeasingMarktInventory": null,
+      "abTest441AtAmmListItems": null,
+      "abTest420MiaTierRotation": null,
+      "abTest438UseUserLocationForAllSearches": null,
+      "abTest453FilterChipsWithinSearchMask": null,
+      "abTest451HighlightDealerRatingOnLP": null,
+      "abTest417EnsembleModelWithLeadProbabilityWitHistoricalKpis": null,
+      "abTest418EnsembleModelQueryIndependentEtc": null,
+      "abTest468SuperDealRebranding": null,
+      "abTest456LtrModelV51": null,
+      "abTest470DealerOptimisedMiaSelection": null
+    },
+    "isoCulture": "es-ES",
+    "pagePath": "/lst/opel/corsa?atype=C&cy=E&damaged_listing=exclude&desc=0&fregfrom=2019&fregto=2020&page=3&powertype=kw&search_id=3sxmzo2y24&sort=standard&source=listpage_pagination&ustate=N%2CU",
+    "collectWebVitals": false,
+    "alternativeRecommendationsInfo": null,
+    "isTradeInCampaign": false,
+    "resumeFinancing": null
+  },
+  "__N_SSP": true
+}
