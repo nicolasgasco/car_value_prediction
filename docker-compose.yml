@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  python:
+    container_name: "python-3"
+    build: .
+    volumes:
+      - ./:/car_value_prediction
