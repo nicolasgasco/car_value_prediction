@@ -3,7 +3,7 @@ import os as os
 import pandas as pd
 import re as re
 
-DATA_DIRECTORY_PATH = "../data"
+DATA_DIRECTORY_PATH = "../data/scraped"
 
 
 class DataHandler:
