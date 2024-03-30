@@ -3,6 +3,19 @@ version: "3"
 services:
   python:
     container_name: "python-3"
-    build: .
+    build:
+      context: ./
+      dockerfile: ./docker/python/Dockerfile
     volumes:
-      - ./:/car_value_prediction
+      - ./app:/car_value_prediction/app
+      - ./data:/car_value_prediction/data
+  interface:
+    container_name: "node"
+    build:
+      context: ./
+      dockerfile: ./docker/node/Dockerfile
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./interface:/interface
+      - ./data:/data
