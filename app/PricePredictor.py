@@ -44,7 +44,7 @@ class PricePredictor:
 
         predictions_description = {
             'min_value': "0",
-            'max_value': f"max_mileage",
+            'max_value': f"{max_mileage}",
             'predicted_at': datetime.datetime.now().strftime("%Y-%m-%d"),
             'scraped_at': (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d"),
         }
@@ -58,9 +58,8 @@ class PricePredictor:
 
         predictions_description_json = json.dumps(predictions_description)
 
-        if not os.path.exists(PREDICTIONS_DIRECTORY_PATH):
-            os.makedirs(PREDICTIONS_DIRECTORY_PATH)
-
-        with open(PREDICTIONS_DIRECTORY_PATH + "/predictions.json", "w") as file:
-            file.write(predictions_description_json)
-            file.truncate()
+        try:
+            with open(PREDICTIONS_DIRECTORY_PATH + "/predictions.json", "w") as file:
+                file.write(predictions_description_json)
+        except Exception as e:
+            print(f"An error occurred while trying to write the file: {e}")

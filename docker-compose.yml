@@ -7,8 +7,8 @@ services:
       context: ./
       dockerfile: ./docker/python/Dockerfile
     volumes:
-      - ./app:/car_value_prediction/app
-      - ./data:/car_value_prediction/data
+      - ./app:/app
+      - ./data:/data
   interface:
     container_name: "node"
     build:
@@ -18,4 +18,3 @@ services:
       - "5173:5173"
     volumes:
       - ./interface:/interface
-      - ./data:/data
