@@ -50,7 +50,7 @@ class DataHandler:
 
         mileage = int(listing["tracking"]['mileage'])
 
-        return {"price": price, "mileage": mileage}
+        return {"mileage": mileage, "price": price}
 
     def create_listings_df(self):
         """
@@ -64,3 +64,8 @@ class DataHandler:
 
         df = pd.DataFrame(formatted_listings)
         self._listings = df
+
+        print(max(df['mileage']))
+
+    def get_listings(self):
+        return self._listings
