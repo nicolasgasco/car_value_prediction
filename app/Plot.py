@@ -37,7 +37,9 @@ class Plot:
         plt.grid(True, which='both', linestyle='--', linewidth=0.5)
 
         if (linear_regression):
-            self._plot_linear_regression(x_data)
+            estimated_y_data = self._theta0 + self._theta1 * x_data
+
+            plt.plot(x_data, estimated_y_data, 'y-')
 
         plot_name = self._labels['title'].lower().replace(' ', '_')
         plot_name += '-linear_regression' if linear_regression else ''
