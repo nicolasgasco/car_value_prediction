@@ -26,6 +26,8 @@ def main():
     [estimated_price] = price_predictor.predict(50_000)
     print(f"Estimated price for 50,000 {x_prop}: {estimated_price}")
 
+    price_predictor.store_predictions()
+
 
 if __name__ == "__main__":
     main()

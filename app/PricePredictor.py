@@ -1,7 +1,10 @@
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
+import datetime as datetime
+import json as json
 import numpy as np
+import os as os
 
 
 class PricePredictor:
@@ -33,3 +36,31 @@ class PricePredictor:
     def predict(self, value):
         assert self._model is not None, "Model is not trained"
         return self._model.predict(np.array(value).reshape(-1, 1))
+
+    def store_predictions(self):
+        PREDICTIONS_DIRECTORY_PATH = "../data/predictions"
+
+        max_mileage = self._data['mileage'].max()
+
+        predictions_description = {
+            'min_value': "0",
+            'max_value': f"max_mileage",
+            'predicted_at': datetime.datetime.now().strftime("%Y-%m-%d"),
+            'scraped_at': (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d"),
+        }
+
+        predictions = {}
+        for x in range(0, max_mileage):
+            prediction = self.predict(x)[0]
+            predictions[x] = f"{int(prediction)}"
+
+        predictions_description['predictions'] = predictions
+
+        predictions_description_json = json.dumps(predictions_description)
+
+        if not os.path.exists(PREDICTIONS_DIRECTORY_PATH):
+            os.makedirs(PREDICTIONS_DIRECTORY_PATH)
+
+        with open(PREDICTIONS_DIRECTORY_PATH + "/predictions.json", "w") as file:
+            file.write(predictions_description_json)
+            file.truncate()
