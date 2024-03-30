@@ -1,14 +1,16 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useRef, useState } from 'react'
+import predictions from '../data/predictions.json';
+
 import './App.css'
 
 function App() {
   const [userMileage, setUserMileage] = useState<number>(0)
+  const { current: predictionsData } = useRef(predictions)
 
   const handleUserMileageChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setUserMileage(Number(event.target.value))
   }
+
 
   return (
     <>
@@ -17,8 +19,9 @@ function App() {
 
       <div>
         <label htmlFor="mileage">Mileage</label>
-        <input type="range" min="1000" max="200000" step="1000" value={userMileage} id="mileage" onChange={handleUserMileageChange} />
-        <p>{userMileage}</p>
+        <input type="range" min={predictionsData.min_value} max={predictionsData.max_value} step="10000" value={userMileage} id="mileage" onChange={handleUserMileageChange} />
+        <p>{userMileage.toLocaleString()}</p>
+        <input type="text" value={userMileage} onChange={handleUserMileageChange} />
       </div>
     </>
   )
