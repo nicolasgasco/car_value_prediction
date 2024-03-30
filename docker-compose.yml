@@ -9,6 +9,7 @@ services:
     volumes:
       - ./app:/app
       - ./data:/data
+      - ./scraper:/scraper
   interface:
     container_name: "node"
     build:
