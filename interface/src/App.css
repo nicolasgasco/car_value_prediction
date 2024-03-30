@@ -4,3 +4,34 @@
   padding: 2rem;
   text-align: center;
 }
+
+.highlight {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+.slider {
+  accent-color: #fcb667;
+}
+
+.result-container {
+  background-color: #fcb667;
+
+  color: #242424;
+  padding: 24px;
+  border-radius: 8px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 300px;
+  min-height: 100px;
+}
