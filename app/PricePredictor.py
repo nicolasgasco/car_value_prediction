@@ -31,7 +31,10 @@ class PricePredictor:
 
         self._model = LinearRegression()
 
-        self._model.fit(X_train, y_train)
+        self._model.fit(X_train.values, y_train.values)
+
+    def get_thetas(self):
+        return self._model.coef_[0], self._model.intercept_
 
     def predict(self, value):
         assert self._model is not None, "Model is not trained"
@@ -50,7 +53,7 @@ class PricePredictor:
         }
 
         predictions = {}
-        for x in range(0, max_mileage):
+        for x in range(0, int(max_mileage)):
             prediction = self.predict(x)[0]
             predictions[x] = f"{int(prediction)}"
 
